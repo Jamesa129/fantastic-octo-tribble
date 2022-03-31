@@ -1,2 +1,2 @@
-Jamesa129.github.io
+jamesa129.github.io
 init
