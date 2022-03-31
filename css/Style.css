@@ -1,0 +1,71 @@
+
+h3{color: green;}
+h2{color: green;}
+
+p5{color: teal;}
+p{color: blue;}
+
+body {background-color:lightblue;}
+
+#Tools {color: red;}
+
+#div4{
+}
+
+
+#starter{
+  border-style: solid;
+  border-width: 10px;
+  position: absolute;
+  top: 210px;
+  right: 500px;
+  }
+
+#div7{
+display: inline;
+font-size: 20px;
+position: fixed;
+top: 0;
+right:0;
+padding: 10px;
+margin: 10px;
+background-color: white;
+font-style:italic;
+border-style: solid;
+font-weight: 10px;
+width:250px;}
+
+
+.dog{
+padding: 20px;
+background-color: teal;
+font-style:italic;
+border-style: solid;
+font-weight: 900px;
+width:300px;
+}
+
+input[type=text]:hover{
+border: solid;
+background-Color: lightgreen
+}
+
+input[type=button]:hover{
+border: dotted;
+background-Color: lightblue
+}
+
+.bluep{
+padding: 10px;
+background-color: orange;
+font-style:italic;
+border-style: solid;
+font-weight: 800px;
+width:400px;
+}
+
+{
+color: green;
+background-Color: rgb(30,50,70);
+padding: 5px;
+}
